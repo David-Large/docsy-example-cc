@@ -1,5 +1,5 @@
 #!/bin/bash
 
-npm install -D autoprefixer
-npm install -D postcss-cli
-npm install -D postcss
+npm install autoprefixer
+npm install postcss-cli
+npm install postcss
