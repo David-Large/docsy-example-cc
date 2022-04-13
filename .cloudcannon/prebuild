@@ -1,5 +1,5 @@
 #!/bin/bash
 
 npm install autoprefixer
-npm install postcss-cli
+npm install -g postcss-cli
 npm install postcss
