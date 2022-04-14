@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+npm install -g postcss-cli
+npm install autoprefixer
+npm audit fix
