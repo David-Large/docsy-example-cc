@@ -233,7 +233,3 @@ enable = false
     path = "github.com/google/docsy/dependencies"
     disable = false    
     
-[caches]
-  [caches.modules]
-    dir = '/usr/local/__site/src/cache'
-    maxAge = -1
