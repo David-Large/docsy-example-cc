@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
 npm install -g postcss-cli
 npm install autoprefixer
 npm audit fix
+
+export NODE_PATH="`pwd`/node_modules:$NODE_PATH"
